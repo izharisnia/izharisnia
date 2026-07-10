@@ -81,11 +81,13 @@ Building responsive, user-centric web experiences with clean and scalable code.
 
 ---
 
+
 ## <img src="https://cdn.simpleicons.org/github" width="22"/> GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=izharisnia&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=izharisnia&theme=highcontrast&hide_border=true&layout=compact" />
+  
 </p>
 
 <p align="center">
@@ -95,6 +97,22 @@ Building responsive, user-centric web experiences with clean and scalable code.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=izharisnia&style=for-the-badge&color=blueviolet" />
 </p>
+
+
+## <img src="https://cdn.simpleicons.org/github" width="22"/> Current Work
+
+- Frontend Developer @ Sanfy Consultancy Services
+- Building React-based SaaS applications
+- Leading frontend development for client projects
+- Freelance React Developer
+- Exploring Backend Development & Deep Learning
+
+## <img src="https://cdn.simpleicons.org/github" width="22"/> Contribution Summary
+
+- 596+ GitHub Contributions (Last 12 Months)
+- Active contributor across private & public repositories
+- Frontend Development • React • SaaS Products
+
 
 
 ## <img src="https://cdn.simpleicons.org/git" width="22"/> Contribution Graph
